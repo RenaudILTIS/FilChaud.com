@@ -1,0 +1,19 @@
+﻿Bonjour [name],
+
+Un nouveau commentaire a été posté sur la page [page reference]. Il est situé à l'adresse suivante:
+[comment url]
+
+Le commentaire a été fait par [poster] et contient le texte suivant:
+
+************************
+
+[comment]
+
+************************
+
+Cordialement,
+
+[signature]
+
+Pour modifier le suivi de ces commentaires, cliquez ci-dessous :
+[subscription link]

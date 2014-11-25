@@ -1,0 +1,13 @@
+﻿Bonjour [name],
+
+Vous avez demandé un abonnement au commentaires de la page [page reference], située à l'adresse suivante:
+[page url]
+
+Merci de confirmer cet abonnement en cliquant sur le lien ci-dessous:
+[confirmation link]
+
+Si vous n'avez pas demandé cet abonnement, ne faites rien, cette demande ne sera pas renouvelée.
+
+Cordialement,
+
+[signature]

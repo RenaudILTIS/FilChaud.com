@@ -1,0 +1,19 @@
+﻿Hello [name],
+
+Vous avez une réponse à un commentaire sur la page [page reference]. Elle se trouve à l'adresse ci-dessous:
+[comment url]
+
+La répone a été faite par [poster] et contient le texte suivant:
+
+************************
+
+[comment]
+
+************************
+
+Cordialement,
+
+[signature]
+
+Pour modifier la gestion de ces commentaires, cliquez sur le lien ci-dessous:
+[subscription link]

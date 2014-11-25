@@ -1,0 +1,19 @@
+﻿Bonjour,
+
+Un nouveau commentaire a été marqué sur la page [page reference]. Il est situé à l'adresse suivante:
+[comment url]
+
+Le commentaire marqué a été fait par [poster] et se présente comme suit:
+
+************************
+
+[comment]
+
+************************
+
+Voici le lien vers votre panneau d'administration:
+[admin link]
+
+Cordialement,
+
+[signature]
