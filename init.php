@@ -26,7 +26,7 @@
 
 	if (! isset($_SESSION['lang']))//
 	//if (!$_SESSION['lang'])
-		$_SESSION['lang'] = ($_SERVER['HTTP_HOST'] == 'www.frenchfoam.com')? 'en' : 'fr';
+		$_SESSION['lang'] = ($_SERVER['HTTP_HOST'] == 'www.hotwireprojects.com')? 'en' : 'fr';
 	if (isset($_GET['lang']))
 		$_SESSION['lang'] = ($_GET['lang'] == 'fr')? 'fr' : 'en';
 

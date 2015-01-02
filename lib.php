@@ -1,6 +1,6 @@
 <?php
 	/********************************************
-	* Custom FilChaud/FrenchFoam functions      *
+	* Custom FilChaud/HotWireProjects functions      *
 	********************************************/
 
 	function isLogged()

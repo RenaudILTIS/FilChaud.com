@@ -5,7 +5,7 @@
 	<!--	<img src="img/intro.jpg" class="adapt" alt="Intro image"> -->
 	</div>
 	<div class="col-lg-7">
-		<h2>FrenchFoam.com</h2>
+		<h2>HotWireProjects.com</h2>
 		<p>The place to find and share polystyrene<br />hot-wire-cutted projects for the MiniCut2d.<br /><br />Model-making, design, decoration,<br />toys, logos, serial cutting... be creative!</p>
 	</div>
 </div>

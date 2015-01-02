@@ -110,9 +110,9 @@
     <div class="sidebar-module">
       <h4>Share</h4>
       <ol class="list-unstyled">
-        <li><a href="http://twitter.com/share?text=I liked this object from <?php echo $user['login']; ?> On frenchfoam!&url=http://www.frenchfoam.com/object.php?id=<?php echo $_GET['id']; ?>">Twitter</a></li>
-        <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.frenchfoam.com?object.php?id=<?php echo $_GET['id']; ?>">Facebook</a></li>
-        <li><a href="https://plus.google.com/share?url=http://www.frenchfoam.com?object.php?id=<?php echo $_GET['id']; ?>">Google +</a></li>
+        <li><a href="http://twitter.com/share?text=I liked this object from <?php echo $user['login']; ?> On HotWireProjects!&url=http://www.hotwireprojects.com/object.php?id=<?php echo $_GET['id']; ?>">Twitter</a></li>
+        <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.hotwireprojects.com?object.php?id=<?php echo $_GET['id']; ?>">Facebook</a></li>
+        <li><a href="https://plus.google.com/share?url=http://www.hotwireprojects.com?object.php?id=<?php echo $_GET['id']; ?>">Google +</a></li>
       </ol>
     </div>
   </div>

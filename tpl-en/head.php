@@ -8,7 +8,7 @@
 		<meta name="author" content="">
 		<link rel="shortcut icon" href="img/favicon.ico">
 
-		<title>French Foam</title>
+		<title>Hot Wire Projects</title>
 
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/style.css" rel="stylesheet">

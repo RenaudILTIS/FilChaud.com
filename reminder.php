@@ -26,7 +26,7 @@
 			$JOUR  = date("Y-m-d");
 			$HEURE = date("H:i");
 			(getLang() == 'en')? 
-			         $Subject = "Password Reset FRENCHFOAM.COM - $JOUR $HEURE"
+			         $Subject = "Password Reset HOTWIREPROJECTS.COM - $JOUR $HEURE"
 			        :$Subject = "Reset de mot de passe FILCHAUD.COM - $JOUR $HEURE";
 			
 			$mail_Data = "";
