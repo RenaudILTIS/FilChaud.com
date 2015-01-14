@@ -1,8 +1,8 @@
 <?php if (isset($error)) echo '<div class="alert alert-danger">'.$error.'</div>'; ?>
 <div class="jumbotron row">
 	<div class="col-lg-5">
-		<iframe width="400" height="225" src="//www.youtube.com/embed/THyjqlgmbpU" frameborder="0" allowfullscreen></iframe>
-	<!--	<img src="img/intro.jpg" class="adapt" alt="Intro image"> -->
+	<!--	<iframe width="400" height="225" src="//www.youtube.com/embed/THyjqlgmbpU" frameborder="0" allowfullscreen></iframe> -->
+		<img src="img/intro.jpg" class="adapt" alt="Intro image">
 	</div>
 	<div class="col-lg-7">
 		<h2>HotWireProjects.com</h2>
